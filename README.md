@@ -21,3 +21,7 @@ https://github.com/snipsco/nlu-benchmark/tree/master/2017-06-custom-intent-engin
 
 # How to run
 Please check intentDetection.py script.
+
+# Acknowledgement
+Please check the following source which was very helpful for this project:
+https://www.curiousily.com/posts/intent-recognition-with-bert-using-keras-and-tensorflow-2/
